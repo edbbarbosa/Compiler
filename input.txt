@@ -1,0 +1,11 @@
+car a = 1;
+car xk = 2;
+banana b;
+tree k;
+xk = 999;
+b = "GNU/Linux";
+se (a == 1) { avocado ("Hello world\n"); } senao { avocado (xk); }
+avocado ("Hi\n");
+xk = 9;
+whilst (k == 1) { avocado ("=D"); }
+para (car i = 0; i < 9; i++) { avocado ("test"); }
